@@ -19,14 +19,16 @@ I thrive on leveraging data to uncover insights that steer impactful decisions. 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gradedSystem&show_icons=true&theme=radical" alt="gradedSystem's GitHub stats" style="margin-right: 10px;"/>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gradedSystem&theme=radical" alt="gradedSystem's GitHub Streak" style="margin-left: 10px;"/>
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gradedSystem&layout=compact&theme=radical" alt="gradedSystem's Top Languages"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gradedSystem&show_icons=true&theme=radical" alt="gradedSystem's GitHub stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gradedSystem&theme=radical" alt="gradedSystem's GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
