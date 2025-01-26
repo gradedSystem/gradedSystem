@@ -18,9 +18,6 @@ I thrive on leveraging data to uncover insights that steer impactful decisions. 
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=gradedSystem&show_icons=true&theme=radical" alt="gradedSystem's GitHub stats"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gradedSystem&theme=radical" alt="gradedSystem's GitHub Streak"/>
-    </td>
   </tr>
 </table>
 
