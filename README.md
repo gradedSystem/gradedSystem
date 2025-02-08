@@ -5,7 +5,7 @@
 I thrive on leveraging data to uncover insights that steer impactful decisions. My focus lies in crafting robust data pipelines and deploying machine learning models for real-world applications.
 
 - 👀 **Passionate About**: Data Engineering and Data Science
-- 🌱 **Currently Learning**: Delving into the intricacies of Data Engineering
+- 🌱 **Currently Learning**: Big Data Engineering
 - 📫 **Reach Me On**: [LinkedIn](https://www.linkedin.com/in/yedige2000/)
 - 📝 **My Resume**: [Resume.pdf](https://github.com/gradedSystem/gradedSystem/blob/main/Resume.pdf)
 
